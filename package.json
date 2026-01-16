@@ -14,7 +14,10 @@
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "@supabase/supabase-js": "^2.0.0",
-    "clsx": "^1.2.1"
+    "clsx": "^1.2.1",
+    "@tiptap/react": "^2.0.0",
+    "@tiptap/starter-kit": "^2.0.0",
+    "@tiptap/extension-image": "^2.0.0"
   },
   "devDependencies": {
     "typescript": "^5.0.0",
